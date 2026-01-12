@@ -1,0 +1,12 @@
+├── assets
+│   ├── badges
+│   │   └── reddit-awards.png
+│   ├── logo
+│   │   └── logo.png
+│   └── text
+│       └── story.txt
+├── main.py
+├── reddit_svg.py
+├── run_example.md
+└── svg_assets.py
+
